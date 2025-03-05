@@ -18,13 +18,12 @@
     padding: 15px;
     background-color: #f9f9f9;
     transition: transform 0.3s ease-in-out;
-    width: 100%; 
-    max-width:100%;
+    max-width:300%;
 }
 
 .location img {
     width: 100%;
-    height: 180px;  /* 고정된 높이 */
-    object-fit: cover; /* 비율 유지하면서 꽉 채우기 */
+    height: auto;  
+    object-fit: contain; 
     border-radius: 10px;
 }
