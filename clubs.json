@@ -145,5 +145,26 @@
         "description": " 저희는 이공계열을 꿈꾸는 친구들에게 필수적이고 기초가 되는 물리학 관련 동아리 입니다. 어려운 실험은 하지 않고 교실에서 할 수 있는 단순한 실험을 한 뒤 그 실험 뒤에서 주목받지 못했던 이론에 대해 집중 탐구해 보는 동아리 입니다. 공학 계열에 관심이 있는 친구들의 많은 신청 부탁드립니다!!",
         "link": "https://docs.google.com/forms/d/e/1FAIpQLSffgi1JjSdDMO_adolcHcwIJijKE-NjnQUmQN5lPW7qV9eiyw/viewform",
         "category":"공학"
+    },
+        {
+        "name": "엔지엑스",
+        "image": "images/club22.jpg",
+        "description": "공학을 주제로한 제작 및 실험을 하는 동아리입니다.",
+        "link": "https://forms.gle/mVEbxqLxtZ12jHqRA",
+        "category":"공학"
+    },
+        {
+        "name": "새로고침",
+        "image": "images/club23.jpg",
+        "description": "경제,정치,법,윤리 등 여러 사회분야를 탐구하는 동아리 새로고침입니다!!!! 사회분야에 관심 있으신 포곡고등학교 학생여러분 많은 관심과 신청 부탁드립니다💜",
+        "link": "https://form.naver.com/response/6Dgn_7HB3ww8xVfEl157Kw",
+        "category":"사회"
+    },
+        {
+        "name": "미디온",
+        "image": "images/club24.jpg",
+        "description": "영상 제작, 저널리즘, 광고·브랜딩, 디자인, 영화 제작 등을 하나의 틀 안에서 운영하면서, 다양한 미디어 콘텐츠 관련 활동을 할 수 있습니다. ",
+        "link": "https://naver.me/F5Diw2p3",
+        "category":"사회"
     }
 ]
