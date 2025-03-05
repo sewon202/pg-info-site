@@ -1,5 +1,5 @@
 nav {
-    background: #041b99;
+    background:#001483;
     padding: 10px;
     text-align: center;
 }
@@ -29,4 +29,12 @@ body {
     text-align: center;
     margin: 0;
     padding: 0;
+}
+
+body img {
+    width : 100%;
+    height: auto;
+    object-fit: contain;
+    border-radius: 10px;
+
 }
