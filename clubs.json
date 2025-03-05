@@ -166,5 +166,26 @@
         "description": "영상 제작, 저널리즘, 광고·브랜딩, 디자인, 영화 제작 등을 하나의 틀 안에서 운영하면서, 다양한 미디어 콘텐츠 관련 활동을 할 수 있습니다. ",
         "link": "https://naver.me/F5Diw2p3",
         "category":"사회"
+    },
+    {
+        "name": "포니멀",
+        "image": "images/club25.png",
+        "description": "포니멀 동아리는 동물 생명 존중의 가치를 배우는 동아리입니다. 함께 동물에 대한 과학적 탐구력을 키우고 윤리적 문제에 대해서도 깊이 고민하는 활동을 할 예정입니다. 반려동물부터 야생동물까지 폭넓은 주제를 다루니 동물을 사랑하고 연구하고 싶은 모든 학생 환영합니다~!",
+        "link": "https://docs.google.com/forms/d/e/1FAIpQLSe_LuKA_gnMvdQqjDSPxDjh9nt0kSO9sw472_V711ABu4wp8A/viewform ",
+        "category":"사회"
+    },
+    {
+        "name": "아고라",
+        "image": "images/club26.png",
+        "description": "‘아고라’는 고대 그리스에서 사람들이 모여 토론하고 교류하던 공간을 의미합니다! 다양한 사회·경제경영·정치·외교 등 다양한 이슈를 다루는 활동을 할 수 있습니다!🌟아직 진로가 확실하지 않은 친구들도 다양한 활동을 통해 관심 분야를 탐색하고 자신의 진로를 찾아갈 수 있습니다🌟",
+        "link": "https://m.site.naver.com/1DcyJ",
+        "category":"사회"
+    },
+    {
+        "name": "정경학개론",
+        "image": "images/club27.png",
+        "description": "정치&경제동아리 정경학개론입니다. 모든 학년 가입 가능하며 현재 모집인원이 많이 남지 않아 가입 문의는 포스터 내 기재된 부장 인스타로 부탁드립니다!",
+        "link": "https://www.instagram.com/h_osun.g/",
+        "category":"사회"
     }
 ]
