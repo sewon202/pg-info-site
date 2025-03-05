@@ -115,7 +115,7 @@
         "name": "뉴로바이오",
         "image": "images/club17.jpg",
         "description": "‘뉴로바이오’는 화학과 생명을 주로 다루는 동아리로, 3학년 마지막 학기 여러분의 진로에 알맞게 채울 수 있는 적합한 동아리입니다! 많은 신청 부탁드립니다.",
-        "link": "",
+        "link": "https://m.site.naver.com/1DcGX",
         "category":"과학"
     },
     {
@@ -200,6 +200,13 @@
         "image": "images/club29.png",
         "description": "식품공학과, 식품영양학과, 생명 관련 학과를 지망하는 학생분들! '바이오푸드랩'에서 부원들의 의견을 반영하여 진행하는 다양한 실험과 교과 기반 심화 탐구를 통한 빵빵한 생기부 챙겨가세요~😚",
         "link": "https://form.naver.com/response/y_1gcgNCMqB3x-CwPtnT7A",
+        "category":"과학"
+    },
+    {
+        "name": "유레카",
+        "image": "images/club30.png",
+        "description": "여러분과 함께할 과학 동아리 ‘유레카‘입니다!과학을 배우는 것도 좋지만, 직접 탐구하고 실험하며 스스로 답을 찾아가는 과정은 더 짜릿하겠죠? 유레카에서는 비슷한 관심사를 가진 친구들과 함께 지금 가장 핫한 과학 이슈를 탐구하고, 의문을 던지고, 직접 실험하며 답을 찾아가는 과정을 경험할 수 있어요. 조사부터 실험, 분석, 보고서 작성, 그리고 발표까지! 단순한 활동을 넘어 스스로 생각하고 도전하는 과학 연구를 해보고 싶다면, 유레카에서 함께해요✨",
+        "link": "https://www.instagram.com/ce.unx?igsh=ejN4ejVuajQxNHpi",
         "category":"과학"
     }
 ]
