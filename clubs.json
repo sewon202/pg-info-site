@@ -231,7 +231,7 @@
         "category":"예술"
     },
     {
-        "name": "힙츠코더",
+        "name": "힙츠코더(마감)",
         "image": "images/club34.png",
         "description": "프로그래밍 동아리 힙츠코더입니다! 저희 동아리는 파이썬을 이용한 프로젝트 수업을 진행합니다 프로그래밍 기초 수업도 진행할 예정이니 프로그래밍 경험이 없더라도 관심이 있다면 많은 관심 부탁드립니다",
         "link": "https://forms.gle/vrdo2VMP9uUHWNxE7",
@@ -320,5 +320,13 @@
         "description": "동아리 뷰티 아뜰리에입니다! 뷰티에 관심있는 학생이라면! 편하게 신청 부탁드립니다!",
         "link": "https://naver.me/5cheXyJ7",
         "category":"예술"
+    },
+    {
+        "name": "리서치",
+        "image": "images/club47.png",
+        "description": "안녕하세요, 진로융합탐구동아리 ‘리서치(research)입니다! 저희동아리에서는 본인 관심분야에 특화된 탐구와 후속 활동을 본인이 직접 기획해서 할 수 있고, 학생 개개인 맞춤형 생기부를 만들어갈 수 있습니다!현재 4~5자리 남았으니 관심있으신분은 신청해주세요☺️",
+        "link": "https://naver.me/xiqlBsUy",
+        "category":""
     }
+
 ]
