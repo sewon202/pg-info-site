@@ -78,10 +78,10 @@
     },
     {
         "name": "네트워크",
-        "image": "images/club12.1.jpg",
-        "description": "네트워크는 미래를 이끌어갈 글로벌 인재로서의 소양을 기르기 위한 동아리입니다! 다양한 사회 문제를 탐구하고, 자신의 진로와 연결해 폭넓은 경험을 쌓을 수 있습니다☘ 많은 관심 부탁드립니다 💙",
+        "image": "images/club12.2.jpg",
+        "description": 🌐 ‘네트워크’는 다양한 사회 문제를 탐구하고, 자신의 진로와 연결해 폭넓은 경험을 쌓을 수 있는 동아리입니다! 생기부를 빵빵 채울 수 있는 활동과 선생님이 기다리고 있습니다! 많은 관심 부탁드립니다 🫧🩵",
         "link": "https://form.naver.com/response/UqeXeO52HXe7W3mAsJJFIA",
-        "category":"인문"
+        "category":"사회"
     },
     {
         "name": "뉴런2",
@@ -290,7 +290,7 @@
         "name": "팝스타잉글리쉬",
         "image": "images/club42.jpg",
         "description": "영어권 문화에 대해 배우는 팝스타 english 동아리 입니다! 가볍게 영미 문화 배우면서 영어와 친해져요 영어는 어느 직업군이든 접목하기 좋아서 영어 배우기는 너무 부담스럽고 뭐라도 해야 한다! 싶은 분들 추천드려요☺",
-        "link": "",
+        "link": "https://forms.gle/2dsSgHFXpxFj5r8LA",
         "category":"인문"
     },
     {
@@ -335,5 +335,12 @@
         "link": "https://docs.google.com/forms/d/e/1FAIpQLSd6VcIkMFbeoTQVZuQkxXHEaLFe-9sjoCnleWNqKpPAro_yDw/viewform?usp=header",
         "category":"예술"
     }
+    {
+        "name": "그림판",
+        "image": "images/club49.jpg",
+        "description": "저희 동아리 그림판은 미술 입시를 희망하는 학생들을 위해 기초부터 실제 시험까지 경험을 쌓기 위한 동아리입니다! 참고로 부부장에 대해 설명해드리자면 2학기 때 입시 준비로 인해 부장과 차장이 바쁜 상황인 경우 수업을 도와줘야 하며 그렇기 때문에 생기부에도 기재 될 예정입니다. 3월 7일 부터 3월 17일 오후 2시까지 모집되니 많은 신청 부탁드립니다. 자세한 사항은 기재된 번호를 통해 메시지나 디엠 주세요!",
+        "link": "https://docs.google.com/forms/d/e/1FAIpQLSe8QWtUy4fu2KMJEFkmSBha-LkycXLrsgL-H_9ECzzg_K66sg/viewform?usp=header",
+        "category":"예술"
+    },
 
 ]
