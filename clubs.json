@@ -262,14 +262,14 @@
         "name": "스포위즈",
         "image": "images/club38.jpg",
         "description": "체육 동아리 스포위즈 입니다! 체육전공을 희망하거나 체육을 좋아한다면 편하게 신청해주세요 ദ്ദി ˉ͈̀꒳ˉ͈́ )✧",
-        "link": "",
+        "link": "https://www.instagram.com/minji_420?igsh=MXcxdDd4cXZrbnVrMw==",
         "category":"체육"
     },
     {
         "name": "밀레니엄",
         "image": "images/club39.jpg",
         "description": "밀레니엄은 역사를 통해 과거의 사건과 유산을 탐구하고 나아가 과거의 교훈을 통해 개인과 우리 사회의 미래를 예측하거나 더 나은 세상을 만들어갈 역량을 기르는 것을 주요 목적으로 삼고있는 동아리입니다. 역사에 관심이 있거나 아직 진로를 정하지 못한 친구들,다른 분야의 진로를 가진 친구들 모두 부담없이 신청해주세요 (*ˊᵕˋ*)ﾉ",
-        "link": "",
+        "link": "https://www.instagram.com/b_gyeong31?igsh=MXh3bnBuejNyeXlrOA==",
         "category":"사회"
     },
     {
@@ -290,7 +290,7 @@
         "name": "팝스타잉글리쉬",
         "image": "images/club42.jpg",
         "description": "영어권 문화에 대해 배우는 팝스타 english 동아리 입니다! 가볍게 영미 문화 배우면서 영어와 친해져요 영어는 어느 직업군이든 접목하기 좋아서 영어 배우기는 너무 부담스럽고 뭐라도 해야 한다! 싶은 분들 추천드려요☺",
-        "link": "",
+        "link": "https://www.instagram.com/eoyxnzn?igsh=MXVjcXBuMW5ycGN2cQ==",
         "category":"인문"
     },
     {
@@ -304,7 +304,21 @@
         "name": "우리누리",
         "image": "images/club44.jpg",
         "description": "2025년도 ‘우리누리’학생 기자단을 모집합니다! 전 학년을 대상으로 하고 있으며, 포곡고의 대표 기자로 다양한 활동을 진행할 예정입니다. 많은 관심 부탁드립니다!",
-        "link": "",
+        "link": "https://www.instagram.com/cmbyeoln?igsh=MTEzcXkyZXV3NHF5dw==",
         "category":"사회"
+    },
+    {
+        "name": "해양소년단",
+        "image": "images/club45.png",
+        "description": "안녕하세요 해양소년단 입니다! 저희 해양소년단은 여러 다양한 스포츠 체험활동을 하는 동아리입니다 평소 스포츠에 관심이있거나 좋아하거나 관련 진로를 희망하시는 누구나 신청가능하니 많은 관심 부탁드리겠습니다 :)",
+        "link": "https://www.instagram.com/suuiyeeon?igsh=MWpjeG5yMDhydHhxbA==",
+        "category":"체육"
+    },
+    {
+        "name": "뷰티아뜰리에",
+        "image": "images/club46.png",
+        "description": "동아리 뷰티 아뜰리에입니다! 뷰티에 관심있는 학생이라면! 편하게 신청 부탁드립니다!",
+        "link": "https://naver.me/5cheXyJ7",
+        "category":"예술"
     }
 ]
