@@ -1,0 +1,20 @@
+[
+    {
+        "name": "교복 릴스 대회",
+        "image": "images/events1.jpg",
+        "description": "~~",
+        "category":"학생회"
+    },
+    {
+        "name": "모의 창업 콘테스트",
+        "image": "images/events2.jpg",
+        "description": "~~",
+        "category":"학생회"
+    },
+    {
+        "name": "독서 토론",
+        "image": "images/events3.jpg",
+        "description": "~~",
+        "category":"학생회"
+    }
+]
