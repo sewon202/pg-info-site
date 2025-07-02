@@ -63,6 +63,7 @@
       .then(r => r.json())
       .then(data => {
         clubsData = data;
+        console.log(clubsData);
         displayClubs("all");
       })
       .catch(e => console.error("데이터 로드 실패:", e));
