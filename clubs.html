@@ -68,8 +68,8 @@
                 <img src="${club.image}" alt="${club.name} 포스터">
                 <h3>${club.name}</h3>
                 <p class="description">${club.description}</p>
-                ${club.semester1 && club.semester1.trim() !== "" ? `<p class="semester1">1학기 주요 활동: ${club.semester1}</p>` : ''}
-                ${club.semester2 && club.semester2.trim() !== "" ? `<p class="semester2">2학기 예정 활동: ${club.semester2}</p>` : ''}
+                ${club.semester1 ? `<p class="semester1">1학기 주요 활동: ${club.semester1}</p>` : ''}
+                ${club.semester2 ? `<p class="semester2">2학기 예정 활동: ${club.semester2}</p>` : ''}
                 <a href="${club.link}" target="_blank">자세히 보기</a>
             `;
             clubContainer.appendChild(clubDiv);
