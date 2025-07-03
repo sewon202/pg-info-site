@@ -209,10 +209,10 @@
         {
         "name": "미디온",
         "image": "images/club24.jpg",
-        "description": "",
+        "description": "미디어에 관심있는 학생들이 모여있는 동아리",
         "link": "",
-        "semester1": "",
-        "semester2": "",
+        "semester1": "사회이슈를 시각자료와 함께 분석하고 해결방안을 모색하며 자신의 의견도 정리해보는 시사비평",
+        "semester2": "영상 제작",
         "category":"사회"
     },
     {
