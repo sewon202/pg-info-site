@@ -101,9 +101,9 @@
     {
         "name": "네트워크",
         "image": "images/club12.2.jpg",
-        "description": "",
+        "description": "세계화로 인해 변화하는 시대에 글로벌 인재로서의 소양을 기를 수 있는 다양한 활동을 진행하고자 함. 글로벌 관점에서 자신의 진로와 관심 분야를 탐구하며 다양한 나라의 문화, 언어, 정책 등을 접해 시야를 확장하고자 함",
         "link": "",
-        "semester1": "",
+        "semester1": "사회 문제 탐구",
         "semester2": "",
         "category":"사회"
     },
@@ -236,10 +236,10 @@
     {
         "name": "정경학개론",
         "image": "images/club27.png",
-        "description": "",
+        "description": "정치, 경제 분야 각각 탐구 또는 융합 탐구를 진행하는 동아리",
         "link": "",
-        "semester1": "",
-        "semester2": "",
+        "semester1": "모의 주식 활동,경기도 의회 견학,진로 독서 활동, 찬반 토론 활동",
+        "semester2": "탐구 보고서 작성",
         "category":"사회"
     },
     {
@@ -290,10 +290,10 @@
     {
         "name": "드라마틱스",
         "image": "images/club33.png",
-        "description": "",
+        "description": "연기를 비롯해 조명, 음향, 연출, 극본 등 연극의 모든 요소를 함께 배우고 경험하는 동아리",
         "link": "",
-        "semester1": "",
-        "semester2": "",
+        "semester1": "루덴스아트페스티벌 연극 출품 준비",
+        "semester2": "가온제 및 자체 정기극 준비 역사 기반 연극 준비",
         "category":"예술"
     },
     {
