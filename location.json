@@ -6,10 +6,16 @@
         "floor":"1층"
     },
     {
-        "name": "2층 급식실",
+        "name": "1층 급식실",
         "image": "images/location2.jpg",
         "description": "점심시간에 학생들에게 식사를 제공하는 공간으로, 학교 식사 시간에 활용 된다.",
         "floor":"1층"
+    },
+    {
+        "name": "2층 포시즌",
+        "image": "images/location11.jpg",
+        "description": "",
+        "floor":"2층"
     },
     {
         "name": "2층 도서관",
@@ -35,7 +41,13 @@
         "floor":"2층"
     },
     {
-        "name": "2층 미술실",
+        "name": "3층 포포먼스",
+        "image": "images/location14.jpg",
+        "description": "",
+        "floor":"3층"
+    },
+    {
+        "name": "3층 미술실",
         "image": "images/location7.jpg",
         "description": "미술교과수업을 하는 장소이다. 미술에 필요한 도구들이 있는 창고에는 없는게 없다. 칠판에는 선배들이 그린 그림들이 많이 전시되어 있어 감상할 수 있다. ",
         "floor":"3층"
@@ -45,6 +57,24 @@
         "image": "images/location8.jpg",
         "description": "청람재는 학생들이 자기주도학습을 하는 공간이다. 집중이 잘 되는 책상과 편안한 의자로 공부에 더 집중할 수 있는 환경이 갖추어져있다. 주로 학교에서 진행하는 자기주도학습시간에 사용된다. ",
         "floor":"3층"
+    },
+    {
+        "name": "3층 컴퓨터실",
+        "image": "images/location12.jpg",
+        "description": "",
+        "floor":"3층"
+    },
+    {
+        "name": "3층 정보 실습실",
+        "image": "images/location13.jpg",
+        "description": "",
+        "floor":"3층"
+    },
+    {
+        "name": "4층 포곡베리",
+        "image": "images/location15.jpg",
+        "description": ",
+        "floor":"4층"
     },
     {
         "name": "4층 강당",
