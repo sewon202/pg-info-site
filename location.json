@@ -65,15 +65,15 @@
         "floor":"3층"
     },
     {
-        "name": "3층 정보 실습실",
+        "name": "3층 융합교과실",
         "image": "images/location13.jpg",
-        "description": "",
+        "description": "개인용 노트북이 구비되어 있어서 인공지능 체험 및 프로그래밍을 할 수 있다",
         "floor":"3층"
     },
     {
         "name": "4층 포곡베리",
         "image": "images/location15.jpg",
-        "description": "",
+        "description": "책상과 의자가 갖춰진 회의 및 강연용 공간이다.",
         "floor":"4층"
     },
     {
