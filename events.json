@@ -16,5 +16,17 @@
         "image": "images/events3.jpg",
         "description": "책을 통해 생각을 넓히고, 친구들과 자유롭게 의견을 나눌 수 있는 독서 토론 활동. 분야별로 책 선정 후 토론 진행",
         "category":"학생회"
+    },
+    {
+        "name": "책쏙 토론",
+        "image": "images/events4.jpg",
+        "description": "",
+        "category":"국어과"
+    },
+    {
+        "name": "팀매쓰 챌린지",
+        "image": "images/events5.jpg",
+        "description": "",
+        "category":"수학과"
     }
 ]
