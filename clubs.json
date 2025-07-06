@@ -281,10 +281,10 @@
     {
         "name": "포교동",
         "image": "images/club32.jpg",
-        "description": "",
+        "description": "교육에 관심 있는 학생들이 모여 수업을 기획하고, 다양한 교수방법을 탐구하며, 미래의 교사를 꿈꾸는 친구들과 함께 성장하는 동아리",
         "link": "",
-        "semester1": "",
-        "semester2": "",
+        "semester1": "개별 모의수업 발표 진행, 멘토멘티프로그램",
+        "semester2": "개별 모의수업 발표, 주제토론, 등",
         "category":"인문"
     },
     {
