@@ -30,9 +30,15 @@
         "category":"수학과"
     },
     {
-        "name": "",
-        "image": "images/events5.jpg",
-        "description": "",
-        "category":""
+        "name": "사이언스 쿼드플레이",
+        "image": "images/events6.jpg",
+        "description": "수리과학부-창의적인 과학 실험 설계 활동을 통해 주어진 과학 문제를 해결하는 활동",
+        "category":"수리과학부"
+    },
+    {
+        "name": "사이언스 톡톡",
+        "image": "images/events7.jpg",
+        "description": "수리과학부-신재생 에너지 전환 및 반도체 응용 강연",
+        "category":"수리과학부과"
     }
 ]
