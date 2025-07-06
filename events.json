@@ -28,5 +28,11 @@
         "image": "images/events5.jpg",
         "description": "수학과-팀워크를 발휘해 문제를 해결하며 수학을 즐기는 게임 형식의 모둠 대결",
         "category":"수학과"
+    },
+    {
+        "name": "",
+        "image": "images/events5.jpg",
+        "description": "",
+        "category":""
     }
 ]
