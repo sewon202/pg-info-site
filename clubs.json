@@ -2,9 +2,9 @@
     {
         "name": "딥코딩",
         "image": "images/club1.jpg",
-        "description": "",
+        "description": "코딩을 기본으로 하여 프로그램 제작 및 인공지능에 대해 배우는 동아리",
         "link": "",
-        "semester1": "",
+        "semester1": "디스코드 챗봇 만들기, 주제 탐구",
         "semester2": "",
         "category":"공학"
     },
