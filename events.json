@@ -82,5 +82,11 @@
         "image": "images/events14.png",
         "description": "군 관련 진로에 관심있는 학생들에게 진로 특강 및 멘토링 기회 제공",
         "category":"기타"
+    },
+        {
+        "name": "밴드부 런치 콘서트",
+        "image": "images/events15.png",
+        "description": "밴드부에서 진행하는 런치 콘서트",
+        "category":"기타"
     }
 ]
