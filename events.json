@@ -64,5 +64,23 @@
         "image": "images/events9.png",
         "description": "수리과학부- 과학 및 공학계열의 동아리 부스 체험의 날",
         "category":"수리과학부"
+    },
+    {
+        "name": "포곡 북클럽",
+        "image": "images/events12.png",
+        "description": "도서관-그룹별로 직접 도서를 선정하여 미니 소감문 혹은 북토크",
+        "category":"기타"
+    },
+    {
+        "name": "포곡고에서 푸바오 할부지를 만나요",
+        "image": "images/events13.png",
+        "description": "지역 명사 초청 특강-푸바오 할부지 강철원 사육사가 들려주는 직업과 인생 이야기",
+        "category":"기타"
+    },
+    {
+        "name": "군 간부 초청 군 관련 진로 특강",
+        "image": "images/events14.png",
+        "description": "군 관련 진로에 관심있는 학생들에게 진로 특강 및 멘토링 기회 제공",
+        "category":"기타"
     }
 ]
