@@ -18,6 +18,18 @@
         "category":"학생회"
     },
     {
+        "name": "꽃보다 포곡 감성사진 공모제",
+        "image": "images/events10.png",
+        "description": "벚꽃과 함께 개인, 모둠, 단체 사진을 촬영",
+        "category":"기타"
+    },
+    {
+        "name": "더 좋은 포곡고 만들기",
+        "image": "images/events11.png",
+        "description": "행복한 학교문화 조성을 위한 아이디어를 제안하고 함께 실현해나가는 프로젝트",
+        "category":"기타"
+    },
+    {
         "name": "책쏙 토론",
         "image": "images/events4.jpg",
         "description": "국어과-책을 읽고 논제에 맞춰 토론을 진행",
@@ -52,11 +64,5 @@
         "image": "images/events9.png",
         "description": "수리과학부- 과학 및 공학계열의 동아리 부스 체험의 날",
         "category":"수리과학부"
-    },
-    {
-        "name": "꽃보다 포곡 감성사진 공모제",
-        "image": "images/events10.png",
-        "description": "벚꽃과 함께 개인, 모둠, 단체 사진을 촬영",
-        "category":"기타"
     }
 ]
