@@ -1,75 +1,12 @@
 [
     {
-        "name": "딥코딩",
-        "image": "images/club1.jpg",
-        "description": "코딩을 기본으로 하여 프로그램 제작 및 인공지능에 대해 배우는 동아리",
+        "name": "건축학개론",
+        "image": "images/club52.jpg",
+        "description": "설계부터 제작까지 건축의 기초를 체험하며 공간과 구조에 대한 이해를 넓히는 동아리입니다.",
         "link": "",
-        "semester1": "디스코드 챗봇 만들기, 주제 탐구",
-        "semester2": "",
+        "semester1": "건축 도면을 직접 설계하고 설계도를 바탕으로 우드락을 활용한 건축물 모형을 제작",
+        "semester2": "3D 모델링 디자인 앱을 활용해 건축물 설계",
         "category":"공학"
-    },
-    {
-        "name": "포텐 밴드부",
-        "image": "images/club2.jpg",
-        "description": "",
-        "link": "",
-        "semester1": "",
-        "semester2": "",
-        "category":"예술"
-    },
-    {
-        "name": "시누대",
-        "image": "images/club3.jpg",
-        "description": "학교가 설립될 때부터 전통을 이어온 동아리로, 사물놀이를 중심으로 다양한 예술 활동을 배우며 타 동아리보다 더 풍부하고 뜻깊은 경험을 할 수 있습니다",
-        "link": "",
-        "semester1": "사물놀이에 대한 기본기를 배우며 학교 행사 등을 통해 다양한 경험",
-        "semester2": "1학기때 했던 경험을 바탕으로 학교행사를 포함하여 외부행사,대회 등을 나가 사물놀이의 역사와 우리나라의 전통음악을 더 깊히 이해할 수 있게 도와준다",
-        "category":"예술"
-    },
-    {
-        "name": "팔레트",
-        "image": "images/club4.jpg",
-        "description": "",
-        "link": "",
-        "semester1": "",
-        "semester2": "",
-        "category":"예술"
-    },
-    {
-        "name": "판영화제",
-        "image": "images/club5.jpg",
-        "description": "",
-        "link": "",
-        "semester1": "",
-        "semester2": "",
-        "category":"예술"
-    },
-    {
-        "name": "레이어",
-        "image": "images/club6.jpg",
-        "description": "",
-        "link": "",
-        "semester1": "",
-        "semester2": "",
-        "category":"예술"
-    },
-    {
-        "name": "포곡고 방송부PBS",
-        "image": "images/club7.jpg",
-        "description": "",
-        "link": "",
-        "semester1": "",
-        "semester2": "",
-        "category":"사회"
-    },
-    {
-        "name": "오늘의 실험왕",
-        "image": "images/club8.png",
-        "description": "",
-        "link": "",
-        "semester1": "",
-        "semester2": "",
-        "category":"과학"
     },
     {
         "name": "경사모",
@@ -81,22 +18,49 @@
         "category":"사회"
     },
     {
-        "name": "에테르나",
-        "image": "images/club10.jpg",
-        "description": "다양한 실험과 탐구 활동을 통해 생명 현상을 이해하고, 사고력과 탐구 역량을 키우는 것을 목표로 하는 생명과학 동아리",
+        "name": "과카물리",
+        "image": "images/club53.png",
+        "description": "과학을 좋아하는 학생들이 모여 과학관련 실험&활동을 진행하는 동아리입니다.",
         "link": "",
-        "semester1": "생명 윤리 토론, 조별 프로젝트 및 실험, 단백질 구조 & 기능 분석, 자유 주제 탐구",
-        "semester2": "",
+        "semester1": "과학실험, 뼈&근육 탐구, 과학주제토론",
+        "semester2": "과학실험, 무선충전기 만들기, 종이비행기 탐구, 태양열 미니자동차 만들기",
         "category":"과학"
     },
     {
-        "name": "폴리스",
-        "image": "images/club11.jpg",
-        "description": "경찰과 군인을 진로로 준비하는 학생들이 체력 단련, 법·사회 문제 탐구, 진로 서적 탐독, 미디어 시청과 소감 작성, 환경 정화 등 다양한 활동을 통해 경찰관 직무를 자연스럽게 이해할 수 있는 동아리입니다.",
+        "name": "그림판",
+        "image": "images/club49.jpg",
+        "description": "",
         "link": "",
-        "semester1": "우리 사회에서 문제로 대두된 문제들 조사 및 법 개정, 모의 범죄 현장에서 단서 수집 및 용의자 검거, 미제 사건에 대한 본인의 견해 피력, 학교전담경찰관과 정책 자문단",
-        "semester2": "경찰, 군인의 직무와 준비 과정 탐구(실기 포함), 경찰 및 군인 관련 서적 탐독, 학교전담경찰관과 경찰 장비 체험, 불특정 위협 대응 모의 훈련, 호신술 등 체험 및 학습",
+        "semester1": "",
+        "semester2": "",
+        "category":"예술"
+    },
+    {
+        "name": "글로마크",
+        "image": "images/club15.1.jpg",
+        "description": "패션 경영 국제가 융합된 사회 동아리입니다!",
+        "link": "",
+        "semester1": "리브랜딩 챌린지를 통해 자신들이 생각하는 부분을 보완해 사업 계획서를 작성하는 활동, 사업 계획서를 작성해 해외기업 또는 국내기업에게 피드백을 받는 활동, 자신이 제품을 만들어 경매를 해 가격을 유추해보는 활동",
+        "semester2": "",
         "category":"사회"
+    },
+    {
+        "name": "기계공작반",
+        "image": "images/club22.jpg",
+        "description": "",
+        "link": "",
+        "semester1": "",
+        "semester2": "",
+        "category":"공학"
+    },
+    {
+        "name": "꿈교동",
+        "image": "images/club32.jpg",
+        "description": "교육에 관심 있는 학생들이 모여 수업을 기획하고, 다양한 교수방법을 탐구하며, 미래의 교사를 꿈꾸는 친구들과 함께 성장하는 동아리",
+        "link": "",
+        "semester1": "개별 모의수업 발표 진행, 멘토멘티프로그램",
+        "semester2": "개별 모의수업 발표, 주제토론, 등",
+        "category":"인문"
     },
     {
         "name": "네트워크",
@@ -117,33 +81,6 @@
         "category":"과학"
     },
     {
-        "name": "문예창작부",
-        "image": "images/club14.png",
-        "description": "",
-        "link": "",
-        "semester1": "",
-        "semester2": "",
-        "category":"인문"
-    },
-    {
-        "name": "글로마크",
-        "image": "images/club15.1.jpg",
-        "description": "패션 경영 국제가 융합된 사회 동아리입니다!",
-        "link": "",
-        "semester1": "리브랜딩 챌린지를 통해 자신들이 생각하는 부분을 보완해 사업 계획서를 작성하는 활동, 사업 계획서를 작성해 해외기업 또는 국내기업에게 피드백을 받는 활동, 자신이 제품을 만들어 경매를 해 가격을 유추해보는 활동",
-        "semester2": "",
-        "category":"사회"
-    },
-    {
-        "name": "화생 융합팀",
-        "image": "images/club16.jpg",
-        "description": "",
-        "link": "",
-        "semester1": "",
-        "semester2": "",
-        "category":"과학"
-    },
-    {
         "name": "뉴로바이오",
         "image": "images/club17.1.jpg",
         "description": "뉴로바이오는 자연 계열의 생명과학·화학 동아리로, 다양한 실험과 심화적인 주제 탐구를 통해 과학적 사고력과 진로 역량을 기를 수 있는 동아리입니다.",
@@ -153,66 +90,156 @@
         "category":"과학"
     },
     {
-        "name": "헬스",
-        "image": "images/club18.jpg",
+        "name": "다트",
+        "image": "images/club48.jpg",
         "description": "",
         "link": "",
         "semester1": "",
         "semester2": "",
-        "category":"체육"
+        "category":"예술"
     },
     {
-        "name": "체육스포츠",
-        "image": "images/club19.jpg",
-        "description": "체육 전공실기에 관심이 있거나 운동을 좋아하는 학생들을 대상으로 하는 동아리",
+        "name": "드라마틱스",
+        "image": "images/club33.png",
+        "description": "연기를 비롯해 조명, 음향, 연출, 극본 등 연극의 모든 요소를 함께 배우고 경험하는 동아리",
         "link": "",
-        "semester1": "체육 전공실기에 필요한 실기 종목 연습과 기록 측정,기록 향상을 위한 보조 운동",
-        "semester2": "",
-        "category":"체육"
+        "semester1": "루덴스아트페스티벌 연극 출품 준비",
+        "semester2": "가온제 및 자체 정기극 준비 역사 기반 연극 준비",
+        "category":"예술"
     },
     {
-        "name": "컴온",
-        "image": "images/club20.png",
-        "description": "",
+        "name": "딥코딩",
+        "image": "images/club1.jpg",
+        "description": "코딩을 기본으로 하여 프로그램 제작 및 인공지능에 대해 배우는 동아리",
         "link": "",
-        "semester1": "",
+        "semester1": "디스코드 챗봇 만들기, 주제 탐구",
         "semester2": "",
         "category":"공학"
     },
     {
-        "name": "피식",
-        "image": "images/club21.png",
+        "name": "레이어",
+        "image": "images/club6.jpg",
         "description": "",
         "link": "",
         "semester1": "",
         "semester2": "",
-        "category":"공학"
+        "category":"예술"
     },
-        {
-        "name": "엔지엑스",
-        "image": "images/club22.jpg",
-        "description": "",
+    {
+        "name": "리서치",
+        "image": "images/club47.jpg",
+        "description": "본인 관심분야에 대해 깊이있는 탐구 후 동아리원과 토의하면서 진로분야에 대한 깊이있는 연구활동을 하는 동아리",
         "link": "",
-        "semester1": "",
-        "semester2": "",
-        "category":"공학"
-    },
-        {
-        "name": "새로고침",
-        "image": "images/club23.jpg",
-        "description": "",
-        "link": "",
-        "semester1": "",
+        "semester1": "관심분야에 대한 심화주제탐구 및 토론, 발표 - 학교자율교육과정 심화버전",
         "semester2": "",
         "category":"사회"
     },
-        {
+    {
+        "name": "리프렉션",
+        "image": "images/club54.png",
+        "description": "다양한 진로를 가진 학생들이 모여 각자 진로에 맞는 실험을 진행하고, 각자 관심 분야에 따라 주제 탐구 보고서를 작성하는 융합 탐구 중심의 동아리",
+        "link": "",
+        "semester1": "각자 진로에 맞는 개별주제 1개에 대해 탐구활동 진행. 비슷한 계열들끼리 주제를 정해 팀별 주제탐구 1개 진행",
+        "semester2": "",
+        "category":"과학"
+    },
+    {
+        "name": "물리화학메타랩",
+        "image": "images/club31.jpg",
+        "description": "물리·화학 실험을 통해 과학적 원리를 탐구하고, 실험 설계부터 데이터 분석까지 경험할 수 있는 과학 실험 동아리",
+        "link": "",
+        "semester1": "자신 진로에 맞는 자유 탐구 주제를 설정하고 비슷한 진로인 친구들과 함께 모여서 실험을 하고 그 실험을 바탕으로 보고서 쓰는 활동",
+        "semester2": "",
+        "category":"공학"
+    },
+    {
+        "name": "문예창작부",
+        "image": "images/club14.png",
+        "description": "",
+        "link": "",
+        "semester1": "",
+        "semester2": "",
+        "category":"인문"
+    },
+    {
         "name": "미디온",
         "image": "images/club24.jpg",
         "description": "미디어에 관심있는 학생들이 모여있는 동아리",
         "link": "",
         "semester1": "사회이슈를 시각자료와 함께 분석하고 해결방안을 모색하며 자신의 의견도 정리해보는 시사비평",
         "semester2": "영상 제작",
+        "category":"사회"
+    },
+    {
+        "name": "밀레니엄",
+        "image": "images/club39.jpg",
+        "description": "",
+        "link": "",
+        "semester1": "",
+        "semester2": "",
+        "category":"사회"
+    },
+    {
+        "name": "포곡고 방송부PBS",
+        "image": "images/club7.jpg",
+        "description": "",
+        "link": "",
+        "semester1": "",
+        "semester2": "",
+        "category":"사회"
+    },
+    {
+        "name": "포텐 밴드부",
+        "image": "images/club2.jpg",
+        "description": "",
+        "link": "",
+        "semester1": "",
+        "semester2": "",
+        "category":"예술"
+    },
+    {
+        "name": "뷰티아뜰리에",
+        "image": "images/club46.png",
+        "description": "",
+        "link": "",
+        "semester1": "",
+        "semester2": "",
+        "category":"예술"
+    },
+    {
+        "name": "사회새로고침",
+        "image": "images/club23.jpg",
+        "description": "여러 사회문제에 대해 새로운 관점으로 탐구하는 동아리",
+        "link": "",
+        "semester1": "신문을 제작하여 게시판 게시",
+        "semester2": "사회문제에 대해 토론하기",
+        "category":"사회"
+    },
+    {
+        "name": "생화탐험대",
+        "image": "images/club43.jpg",
+        "description": "",
+        "link": "",
+        "semester1": "",
+        "semester2": "",
+        "category":"과학"
+    },
+    {
+        "name": "시누대",
+        "image": "images/club3.jpg",
+        "description": "학교가 설립될 때부터 전통을 이어온 동아리로, 사물놀이를 중심으로 다양한 예술 활동을 배우며 타 동아리보다 더 풍부하고 뜻깊은 경험을 할 수 있습니다",
+        "link": "",
+        "semester1": "사물놀이에 대한 기본기를 배우며 학교 행사 등을 통해 다양한 경험",
+        "semester2": "1학기때 했던 경험을 바탕으로 학교행사를 포함하여 외부행사,대회 등을 나가 사물놀이의 역사와 우리나라의 전통음악을 더 깊히 이해할 수 있게 도와준다",
+        "category":"예술"
+    },
+    {
+        "name": "아고라",
+        "image": "images/club26.png",
+        "description": "",
+        "link": "",
+        "semester1": "",
+        "semester2": "",
         "category":"사회"
     },
     {
@@ -225,8 +252,44 @@
         "category":"사회"
     },
     {
-        "name": "아고라",
-        "image": "images/club26.png",
+        "name": "에이스",
+        "image": "images/club51.jpg",
+        "description": "다양한 분야에 걸쳐 동아시아를 탐구하는 동아리입니다!",
+        "link": "",
+        "semester1": "주제 탐구 활동, 독서 활동",
+        "semester2": "",
+        "category":"사회"
+    },
+    {
+        "name": "에테르나",
+        "image": "images/club10.jpg",
+        "description": "다양한 실험과 탐구 활동을 통해 생명 현상을 이해하고, 사고력과 탐구 역량을 키우는 것을 목표로 하는 생명과학 동아리",
+        "link": "",
+        "semester1": "생명 윤리 토론, 조별 프로젝트 및 실험, 단백질 구조 & 기능 분석, 자유 주제 탐구",
+        "semester2": "",
+        "category":"과학"
+    },
+    {
+        "name": "오늘의 실험왕",
+        "image": "images/club8.png",
+        "description": "",
+        "link": "",
+        "semester1": "",
+        "semester2": "",
+        "category":"과학"
+    },
+    {
+        "name": "온모음",
+        "image": "images/club36.jpg",
+        "description": "저희 동아리는 보건 계열 진학을 희망하는 친구들이 모여 다양한 실험과 실습을 통해 미래 의료인의 자세를 키워나가는 동아리 입니다",
+        "semester1": "배지 제작과천연 항생물질 실험, 의사 선생님과의 질의응답",
+        "semester2": "개인 또는 팀을 이루어 자신이 관심있는 주제를 심화 탐구하고, 직접 실험을 계획하여 보고서를 작성하기",
+        "link": "",
+        "category":"과학"
+    },
+    {
+        "name": "우리누리",
+        "image": "images/club44.jpg",
         "description": "",
         "link": "",
         "semester1": "",
@@ -234,13 +297,13 @@
         "category":"사회"
     },
     {
-        "name": "정경학개론",
-        "image": "images/club27.png",
-        "description": "정치, 경제 분야 각각 탐구 또는 융합 탐구를 진행하는 동아리",
+        "name": "유레카",
+        "image": "images/club30.jpg",
+        "description": "포곡고등학교의 미래 인재를 양성하는 과학동아리! 유레카입니다☺️",
         "link": "",
-        "semester1": "모의 주식 활동,경기도 의회 견학,진로 독서 활동, 찬반 토론 활동",
-        "semester2": "탐구 보고서 작성",
-        "category":"사회"
+        "semester1": "",
+        "semester2": "뉴스 기사로 토론, 의문점을 바탕으로 문제 도출 후 실험 및 발표로 이어지는 모둠활동, 개인별 진로 관련 논문 요약 및 의문점 제시해 토론하는 개인 활동",
+        "category":"과학"
     },
     {
         "name": "이음",
@@ -252,52 +315,61 @@
         "category":"사회"
     },
     {
-        "name": "바이오캠",
-        "image": "images/club29.1.jpg",
+        "name": "인사동",
+        "image": "images/club41.png",
+        "description": "사람과 세상에 대해서 탐구하고 함께 성장해나가는 동아리!",
+        "link": "",
+        "semester1": "사회 실험 프로젝트",
+        "semester2": "교과 융합 프로젝트",
+        "category":"인문"
+    },
+    {
+        "name": "인사이트필름",
+        "image": "images/club50.jpg",
+        "description": "심리, 영상(음향), 디자인에 관심 있는 학생이 함께하는 동아리",
+        "link": "",
+        "semester1": "주제탐구 보고서 작성 후 발표, 감명받은 영화를 주제로 영상 또는 포스터 제작 후 발표",
+        "semester2": "",
+        "category":"인문"
+    },
+    {
+        "name": "정경학개론",
+        "image": "images/club27.png",
+        "description": "정치, 경제 분야 각각 탐구 또는 융합 탐구를 진행하는 동아리",
+        "link": "",
+        "semester1": "모의 주식 활동,경기도 의회 견학,진로 독서 활동, 찬반 토론 활동",
+        "semester2": "탐구 보고서 작성",
+        "category":"사회"
+    },
+    {
+        "name": "체육스포츠",
+        "image": "images/club19.jpg",
+        "description": "체육 전공실기에 관심이 있거나 운동을 좋아하는 학생들을 대상으로 하는 동아리",
+        "link": "",
+        "semester1": "체육 전공실기에 필요한 실기 종목 연습과 기록 측정,기록 향상을 위한 보조 운동",
+        "semester2": "",
+        "category":"체육"
+    },
+    {
+        "name": "인트에이",
+        "image": "images/club20.png",
         "description": "",
         "link": "",
         "semester1": "",
-        "semester2": "",
-        "category":"과학"
-    },
-    {
-        "name": "유레카",
-        "image": "images/club30.jpg",
-        "description": "",
-        "link": "",
-        "semester1": "",
-        "semester2": "",
-        "category":"과학"
-    },
-    {
-        "name": "메타랩",
-        "image": "images/club31.jpg",
-        "description": "물리·화학 실험을 통해 과학적 원리를 탐구하고, 실험 설계부터 데이터 분석까지 경험할 수 있는 과학 실험 동아리",
-        "link": "",
-        "semester1": "자신 진로에 맞는 자유 탐구 주제를 설정하고 비슷한 진로인 친구들과 함께 모여서 실험을 하고 그 실험을 바탕으로 보고서 쓰는 활동",
         "semester2": "",
         "category":"공학"
     },
     {
-        "name": "포교동",
-        "image": "images/club32.jpg",
-        "description": "교육에 관심 있는 학생들이 모여 수업을 기획하고, 다양한 교수방법을 탐구하며, 미래의 교사를 꿈꾸는 친구들과 함께 성장하는 동아리",
+        "name": "케미스토리",
+        "image": "images/club55.jpg",
+        "description": "의미있는 화학실험을 통해 깊이있는 후속탐구로 자신만의 스토리를 만들 수 있는 동아리",
         "link": "",
-        "semester1": "개별 모의수업 발표 진행, 멘토멘티프로그램",
-        "semester2": "개별 모의수업 발표, 주제토론, 등",
-        "category":"인문"
+        "semester1": "산 염기 중화 적정실험과 비타민C 적정실험 및 후속 탐구",
+        "semester2": "카페인 추출실험과 개인 주제 탐구",
+        "category":"과학"
     },
     {
-        "name": "드라마틱스",
-        "image": "images/club33.png",
-        "description": "연기를 비롯해 조명, 음향, 연출, 극본 등 연극의 모든 요소를 함께 배우고 경험하는 동아리",
-        "link": "",
-        "semester1": "루덴스아트페스티벌 연극 출품 준비",
-        "semester2": "가온제 및 자체 정기극 준비 역사 기반 연극 준비",
-        "category":"예술"
-    },
-    {
-        "name": "힙츠코더",
+        "name": "코딩하는사람들",
         "image": "images/club34.png",
         "description": "",
         "link": "",
@@ -315,17 +387,35 @@
         "category":"인문"
     },
     {
-        "name": "온모음",
-        "image": "images/club36.jpg",
-        "description": "저희 동아리는 보건 계열 진학을 희망하는 친구들이 모여 다양한 실험과 실습을 통해 미래 의료인의 자세를 키워나가는 동아리 입니다",
-        "semester1": "배지 제작과천연 항생물질 실험, 의사 선생님과의 질의응답",
-        "semester2": "개인 또는 팀을 이루어 자신이 관심있는 주제를 심화 탐구하고, 직접 실험을 계획하여 보고서를 작성하기",
+        "name": "판영화제",
+        "image": "images/club5.jpg",
+        "description": "",
         "link": "",
-        "category":"과학"
+        "semester1": "",
+        "semester2": "",
+        "category":"예술"
     },
     {
-        "name": "아키텍트",
-        "image": "images/club37.jpg",
+        "name": "팔레트",
+        "image": "images/club4.jpg",
+        "description": "",
+        "link": "",
+        "semester1": "",
+        "semester2": "",
+        "category":"예술"
+    },
+    {
+        "name": "폴리스",
+        "image": "images/club11.jpg",
+        "description": "경찰과 군인을 진로로 준비하는 학생들이 체력 단련, 법·사회 문제 탐구, 진로 서적 탐독, 미디어 시청과 소감 작성, 환경 정화 등 다양한 활동을 통해 경찰관 직무를 자연스럽게 이해할 수 있는 동아리입니다.",
+        "link": "",
+        "semester1": "우리 사회에서 문제로 대두된 문제들 조사 및 법 개정, 모의 범죄 현장에서 단서 수집 및 용의자 검거, 미제 사건에 대한 본인의 견해 피력, 학교전담경찰관과 정책 자문단",
+        "semester2": "경찰, 군인의 직무와 준비 과정 탐구(실기 포함), 경찰 및 군인 관련 서적 탐독, 학교전담경찰관과 경찰 장비 체험, 불특정 위협 대응 모의 훈련, 호신술 등 체험 및 학습",
+        "category":"사회"
+    },
+    {
+        "name": "피식",
+        "image": "images/club21.png",
         "description": "",
         "link": "",
         "semester1": "",
@@ -333,147 +423,12 @@
         "category":"공학"
     },
     {
-        "name": "밀레니엄",
-        "image": "images/club39.jpg",
-        "description": "",
-        "link": "",
-        "semester1": "",
-        "semester2": "",
-        "category":"사회"
-    },
-    {
-        "name": "이브이",
-        "image": "images/club40.jpg",
-        "description": "",
-        "link": "",
-        "semester1": "",
-        "semester2": "",
-        "category":"공학"
-    },
-    {
-        "name": "인사동",
-        "image": "images/club41.png",
-        "description": "사람과 세상에 대해서 탐구하고 함께 성장해나가는 동아리!",
-        "link": "",
-        "semester1": "사회 실험 프로젝트",
-        "semester2": "교과 융합 프로젝트",
-        "category":"인문"
-    },
-    {
-        "name": "팝스타잉글리쉬",
-        "image": "images/club42.jpg",
-        "description": "",
-        "link": "",
-        "semester1": "",
-        "semester2": "",
-        "category":"인문"
-    },
-    {
-        "name": "생화탐험대",
-        "image": "images/club43.jpg",
-        "description": "",
-        "link": "",
-        "semester1": "",
-        "semester2": "",
-        "category":"과학"
-    },
-    {
-        "name": "우리누리",
-        "image": "images/club44.jpg",
-        "description": "",
-        "link": "",
-        "semester1": "",
-        "semester2": "",
-        "category":"사회"
-    },
-    {
-        "name": "해양소년단",
-        "image": "images/club45.png",
+        "name": "헬스",
+        "image": "images/club18.jpg",
         "description": "",
         "link": "",
         "semester1": "",
         "semester2": "",
         "category":"체육"
-    },
-    {
-        "name": "뷰티아뜰리에",
-        "image": "images/club46.png",
-        "description": "",
-        "link": "",
-        "semester1": "",
-        "semester2": "",
-        "category":"예술"
-    },
-    {
-        "name": "리서치",
-        "image": "images/club47.jpg",
-        "description": "본인 관심분야에 대해 깊이있는 탐구 후 동아리원과 토의하면서 진로분야에 대한 깊이있는 연구활동을 하는 동아리",
-        "link": "",
-        "semester1": "관심분야에 대한 심화주제탐구 및 토론, 발표 - 학교자율교육과정 심화버전",
-        "semester2": "",
-        "category":"사회"
-    },
-    {
-        "name": "다트",
-        "image": "images/club48.jpg",
-        "description": "",
-        "link": "",
-        "semester1": "",
-        "semester2": "",
-        "category":"예술"
-    },
-    {
-        "name": "그림판",
-        "image": "images/club49.jpg",
-        "description": "",
-        "link": "",
-        "semester1": "",
-        "semester2": "",
-        "category":"예술"
-    },
-    {
-        "name": "인사이트필름",
-        "image": "images/club50.jpg",
-        "description": "심리, 영상(음향), 디자인에 관심 있는 학생이 함께하는 동아리",
-        "link": "",
-        "semester1": "주제탐구 보고서 작성 후 발표, 감명받은 영화를 주제로 영상 또는 포스터 제작 후 발표",
-        "semester2": "",
-        "category":"인문"
-    },
-    {
-        "name": "에이스",
-        "image": "images/club51.jpg",
-        "description": "다양한 분야에 걸쳐 동아시아를 탐구하는 동아리입니다!",
-        "link": "",
-        "semester1": "주제 탐구 활동, 독서 활동",
-        "semester2": "",
-        "category":"사회"
-    },
-    {
-        "name": "건축학개론",
-        "image": "images/club52.jpg",
-        "description": "설계부터 제작까지 건축의 기초를 체험하며 공간과 구조에 대한 이해를 넓히는 동아리입니다.",
-        "link": "",
-        "semester1": "건축 도면을 직접 설계하고 설계도를 바탕으로 우드락을 활용한 건축물 모형을 제작",
-        "semester2": "3D 모델링 디자인 앱을 활용해 건축물 설계",
-        "category":"공학"
-    },
-        {
-        "name": "과카물리",
-        "image": "images/club53.png",
-        "description": "과학을 좋아하는 학생들이 모여 과학관련 실험&활동을 진행하는 동아리입니다.",
-        "link": "",
-        "semester1": "과학실험, 뼈&근육 탐구, 과학주제토론",
-        "semester2": "과학실험, 무선충전기 만들기, 종이비행기 탐구, 태양열 미니자동차 만들기",
-        "category":"과학"
-    },
-            {
-        "name": "리프렉션",
-        "image": "images/club54.png",
-        "description": "다양한 진로를 가진 학생들이 모여 각자 진로에 맞는 실험을 진행하고, 각자 관심 분야에 따라 주제 탐구 보고서를 작성하는 융합 탐구 중심의 동아리",
-        "link": "",
-        "semester1": "각자 진로에 맞는 개별주제 1개에 대해 탐구활동 진행. 비슷한 계열들끼리 주제를 정해 팀별 주제탐구 1개 진행",
-        "semester2": "",
-        "category":"과학"
-            }
+    }
 ]
