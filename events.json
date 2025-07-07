@@ -29,6 +29,12 @@
         "description": "수학과-팀워크를 발휘해 문제를 해결하며 수학을 즐기는 게임 형식의 모둠 대결",
         "category":"수학과"
     },
+        {
+        "name": "수학 독서 실험 캠프",
+        "image": "images/events8.jpg",
+        "description": "수학과-수학은 실험이다 책을 읽고 실험 재현 및 보고서 작성",
+        "category":"수학과"
+    },
     {
         "name": "사이언스 쿼드플레이",
         "image": "images/events6.png",
