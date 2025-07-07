@@ -119,9 +119,9 @@
     {
         "name": "레이어",
         "image": "images/club6.jpg",
-        "description": "",
+        "description": "디자인과 미술을 중심으로 활동하는 동아리 “레이어” 입니다.",
         "link": "",
-        "semester1": "",
+        "semester1": "미술 관련 학생부 활동을 위한 전문적인 프로그램을 진행합니다🙂",
         "semester2": "",
         "category":"예술"
     },
@@ -173,9 +173,9 @@
     {
         "name": "밀레니엄",
         "image": "images/club39.jpg",
-        "description": "",
+        "description": "역사와 인문학을 연결 지으며, 독서, 발표, 토론을 통해 사고의 폭을 넓히는 탐구 중심 동아리",
         "link": "",
-        "semester1": "",
+        "semester1": "다양한 매체를 통한 역사 분석, 독서 주제 토론, 융합주제탐구",
         "semester2": "",
         "category":"사회"
     },
