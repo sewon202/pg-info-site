@@ -1,4 +1,31 @@
 [
+        {
+        "name": "포곡고 방송부PBS",
+        "image": "images/club7.jpg",
+        "description": "",
+        "link": "",
+        "semester1": "",
+        "semester2": "",
+        "category":"사회"
+    },
+    {
+        "name": "포텐 밴드부",
+        "image": "images/club2.jpg",
+        "description": "",
+        "link": "",
+        "semester1": "",
+        "semester2": "",
+        "category":"예술"
+    },
+        {
+        "name": "우리누리",
+        "image": "images/club44.jpg",
+        "description": "",
+        "link": "",
+        "semester1": "",
+        "semester2": "",
+        "category":"사회"
+    },
     {
         "name": "건축학개론",
         "image": "images/club52.jpg",
@@ -180,24 +207,6 @@
         "category":"사회"
     },
     {
-        "name": "포곡고 방송부PBS",
-        "image": "images/club7.jpg",
-        "description": "",
-        "link": "",
-        "semester1": "",
-        "semester2": "",
-        "category":"사회"
-    },
-    {
-        "name": "포텐 밴드부",
-        "image": "images/club2.jpg",
-        "description": "",
-        "link": "",
-        "semester1": "",
-        "semester2": "",
-        "category":"예술"
-    },
-    {
         "name": "뷰티아뜰리에",
         "image": "images/club46.png",
         "description": "",
@@ -286,15 +295,6 @@
         "semester2": "개인 또는 팀을 이루어 자신이 관심있는 주제를 심화 탐구하고, 직접 실험을 계획하여 보고서를 작성하기",
         "link": "",
         "category":"과학"
-    },
-    {
-        "name": "우리누리",
-        "image": "images/club44.jpg",
-        "description": "",
-        "link": "",
-        "semester1": "",
-        "semester2": "",
-        "category":"사회"
     },
     {
         "name": "유레카",
