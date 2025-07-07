@@ -30,6 +30,12 @@
         "category":"기타"
     },
     {
+        "name": "우문현답",
+        "image": "images/events16.png",
+        "description": "",
+        "category":"사회과"
+    },
+    {
         "name": "책쏙 토론",
         "image": "images/events4.jpg",
         "description": "국어과-책을 읽고 논제에 맞춰 토론을 진행",
