@@ -47,9 +47,15 @@
         "description": "수리과학부-신재생 에너지 전환 및 반도체 응용 강연",
         "category":"수리과학부"
     },
-        {
-        "name": "꽃보다 포곡 감성사진 공모제",
+    {
+        "name": "수리과학 한마당",
         "image": "images/events9.png",
+        "description": "수리과학부- 과학 및 공학계열의 동아리 부스 체험의 날",
+        "category":"수리과학부"
+    },
+    {
+        "name": "꽃보다 포곡 감성사진 공모제",
+        "image": "images/events10.png",
         "description": "학생자치안전부-벚꽃과 함께 개인, 모둠, 단체 사진을 촬영",
         "category":"학생자치안전부"
     }
