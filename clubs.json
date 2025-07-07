@@ -398,9 +398,9 @@
     {
         "name": "판영화제",
         "image": "images/club5.jpg",
-        "description": "",
+        "description": "함께 영화를 제작하고 감상하며 영상 속 다양한 이야기를 나누는 창작 중심 동아리",
         "link": "",
-        "semester1": "",
+        "semester1": "영화 제작",
         "semester2": "",
         "category":"예술"
     },
@@ -425,11 +425,11 @@
     {
         "name": "피식",
         "image": "images/club21.png",
-        "description": "",
+        "description": "물리학 동아리로 간단한 실험을 하고 그 실험을 통해 물리법칙을 탐구하는 동아리",
         "link": "",
-        "semester1": "",
-        "semester2": "",
-        "category":"공학"
+        "semester1": "진로가 비슷하거나 융합이 가능한 친구들끼리 모여 주제를 정하고 실험을 한 뒤에 실험 속에서 물리법칙을 찾아 발표하고 발표 자료에 관해 가르쳐주는 활동",
+        "semester2": "동아리 인원 전원이 함께하는 거대 프로젝트를 하여 결과물을 축제때 게시할 예정",
+        "category":"과학"
     },
     {
         "name": "헬스",
