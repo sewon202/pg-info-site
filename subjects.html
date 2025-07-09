@@ -9,38 +9,64 @@
 </head>
 <body>
   <h1>선택 과목 안내</h1>
-
-  <div class="tabs">
-    <button class="tab-btn active" data-tab="grade1">1학년 선택과목</button>
-    <button class="tab-btn" data-tab="grade2">2학년 선택과목</button>
-    <button class="tab-btn" data-tab="senior">선배들의 선택과목</button>
-  </div>
-
-  <div id="grade1" class="tab-content active">
-    <img src="images/grade1-subjects.jpg" alt="1학년 선택과목" class="subject-img" />
-  </div>
-
-  <div id="grade2" class="tab-content">
-    <img src="images/grade2-subjects.jpg" alt="2학년 선택과목" class="subject-img" />
-  </div>
-
-  <div id="senior" class="tab-content">
-    <!-- 내용 비워둠. 나중에 추가 -->
-  </div>
-
   <script>
-    const tabButtons = document.querySelectorAll(".tab-btn");
-    const tabContents = document.querySelectorAll(".tab-content");
+        function loadNav() {
+            fetch("nav.html")
+                .then(response => response.text())
+                .then(data => {
+                    document.getElementById("nav-placeholder").innerHTML = data;
+                });
+        }
+        window.onload = loadNav;
 
-    tabButtons.forEach(button => {
-      button.addEventListener("click", () => {
-        tabButtons.forEach(btn => btn.classList.remove("active"));
-        button.classList.add("active");
+        let eventsData = [];
 
-        tabContents.forEach(content => content.classList.remove("active"));
-        document.getElementById(button.dataset.tab).classList.add("active");
-      });
-    });
-  </script>
+        fetch("events.json")
+            .then(response => response.json())
+            .then(events => {
+                eventsData = events;
+                displayEvents("all");
+            })
+            .catch(error => console.error("행사 데이터를 불러오는 중 오류 발생:", error));
+
+        function displayEvents(category) {
+            let eventsContainer = document.getElementById("events-list");
+            if (!eventsContainer) {
+                console.error("events-list 요소를 찾을 수 없음!");
+                return;
+            }
+
+            eventsContainer.innerHTML = "";
+
+            if (eventsData.length === 0) {
+                eventsContainer.innerHTML = "<p>행사 데이터를 불러오는 중입니다...</p>";
+                return;
+            }
+
+            let filteredEvents = eventsData.filter(event => category === "all" || event.category === category);
+
+            filteredEvents.forEach(event => {
+                let eventDiv = document.createElement("div");
+                eventDiv.classList.add("club");  // 기존 CSS 클래스 활용
+                eventDiv.innerHTML = `
+                    <img src="${event.image}" alt="${event.name} 포스터">
+                    <h3>${event.name}</h3>
+                    <p>${event.description}</p>
+                `;
+                eventsContainer.appendChild(eventDiv);
+            });
+        }
+
+        document.addEventListener("DOMContentLoaded", function () {
+            let categorySelect = document.getElementById("category");
+            if (categorySelect) {
+                categorySelect.addEventListener("change", function () {
+                    displayEvents(this.value);
+                });
+            } else {
+                console.error("category 요소를 찾을 수 없음!");
+            }
+        });
+    </script>
 </body>
 </html>
