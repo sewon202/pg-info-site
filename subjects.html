@@ -1,26 +1,46 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>선택과목 안내</title>
-    <link rel="stylesheet" href="style.css">
-    <script>
-        function loadNav() {
-            fetch("nav.html")
-                .then(response => response.text())
-                .then(data => {
-                    document.getElementById("nav-placeholder").innerHTML = data;
-                });
-        }
-        window.onload = loadNav;
-    </script>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>선택 과목 안내</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="subjects.css" />
 </head>
 <body>
-    <div id="nav-placeholder"></div>
+  <h1>선택 과목 안내</h1>
 
-    <h1>선택과목 안내</h1>
-    <p>선택과목 정보를 확인하세요.</p>
+  <div class="tabs">
+    <button class="tab-btn active" data-tab="grade1">1학년 선택과목</button>
+    <button class="tab-btn" data-tab="grade2">2학년 선택과목</button>
+    <button class="tab-btn" data-tab="senior">선배들의 선택과목</button>
+  </div>
 
+  <div id="grade1" class="tab-content active">
+    <img src="images/grade1-subjects.jpg" alt="1학년 선택과목" class="subject-img" />
+  </div>
+
+  <div id="grade2" class="tab-content">
+    <img src="images/grade2-subjects.jpg" alt="2학년 선택과목" class="subject-img" />
+  </div>
+
+  <div id="senior" class="tab-content">
+    <!-- 내용 비워둠. 나중에 추가 -->
+  </div>
+
+  <script>
+    const tabButtons = document.querySelectorAll(".tab-btn");
+    const tabContents = document.querySelectorAll(".tab-content");
+
+    tabButtons.forEach(button => {
+      button.addEventListener("click", () => {
+        tabButtons.forEach(btn => btn.classList.remove("active"));
+        button.classList.add("active");
+
+        tabContents.forEach(content => content.classList.remove("active"));
+        document.getElementById(button.dataset.tab).classList.add("active");
+      });
+    });
+  </script>
 </body>
 </html>
