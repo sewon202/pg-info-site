@@ -9,64 +9,61 @@
 </head>
 <body>
   <h1>선택 과목 안내</h1>
+  
+  <nav id="nav-placeholder"></nav>
+
+  <div id="subjects-list">
+    <p>선택과목 데이터를 불러오는 중입니다...</p>
+  </div>
+
   <script>
-        function loadNav() {
-            fetch("nav.html")
-                .then(response => response.text())
-                .then(data => {
-                    document.getElementById("nav-placeholder").innerHTML = data;
-                });
-        }
-        window.onload = loadNav;
-
-        let subjectsData = [];
-
-        fetch("subjects.json")
-            .then(response => response.json())
-            .then(subjects => {
-                subjectsData = subjects;
-                displaysubjects("all");
-            })
-            .catch(error => console.error("선택과목 데이터를 불러오는 중 오류 발생:", error));
-
-        function displaySubjects(category) {
-            let subjectsContainer = document.getElementById("subjects-list");
-            if (!subjectsContainer) {
-                console.error("subjects-list 요소를 찾을 수 없음!");
-                return;
-            }
-
-            subjectsContainer.innerHTML = "";
-
-            if (subjectsData.length === 0) {
-                subjectsContainer.innerHTML = "<p>선택과목 데이터를 불러오는 중입니다...</p>";
-                return;
-            }
-
-            let filteredSubjects = subjectsData.filter(subject => category === "all" || subject.category === category);
-
-            filteredSubjects.forEach(subject => {
-                let subjectDiv = document.createElement("div");
-                subjectDiv.classList.add("club");  // 기존 CSS 클래스 활용
-                subjectDiv.innerHTML = `
-                    <img src="${subject.image}" alt="${subject.name} 포스터">
-                    <h3>${subject.name}</h3>
-                    <p>${subject.description}</p>
-                `;
-                subjectsContainer.appendChild(subjectDiv);
-            });
-        }
-
-        document.addSubjectsListener("DOMContentLoaded", function () {
-            let categorySelect = document.getElementById("category");
-            if (categorySelect) {
-                categorySelect.addEventListener("change", function () {
-                    displayEvents(this.value);
-                });
-            } else {
-                console.error("category 요소를 찾을 수 없음!");
-            }
+    function loadNav() {
+      return fetch("nav.html")
+        .then(response => response.text())
+        .then(data => {
+          document.getElementById("nav-placeholder").innerHTML = data;
         });
-    </script>
+    }
+
+    let subjectsData = [];
+
+    function displaySubjects() {
+      const subjectsContainer = document.getElementById("subjects-list");
+      if (!subjectsContainer) {
+        console.error("subjects-list 요소를 찾을 수 없음!");
+        return;
+      }
+
+      subjectsContainer.innerHTML = "";
+
+      if (subjectsData.length === 0) {
+        subjectsContainer.innerHTML = "<p>선택과목 데이터를 불러오는 중입니다...</p>";
+        return;
+      }
+
+      subjectsData.forEach(subject => {
+        const subjectDiv = document.createElement("div");
+        subjectDiv.classList.add("club");
+        subjectDiv.innerHTML = `
+          <img src="${subject.image}" alt="${subject.name} 포스터" />
+          <h3>${subject.name}</h3>
+          <p>${subject.description}</p>
+        `;
+        subjectsContainer.appendChild(subjectDiv);
+      });
+    }
+
+    window.onload = () => {
+      loadNav()
+        .then(() => fetch("subjects.json"))
+        .then(response => response.json())
+        .then(subjects => {
+          subjectsData = subjects;
+          displaySubjects();
+        })
+        .catch(error => console.error("선택과목 데이터를 불러오는 중 오류 발생:", error));
+    };
+  </script>
 </body>
 </html>
+
